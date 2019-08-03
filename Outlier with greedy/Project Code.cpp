@@ -8,6 +8,8 @@ int main()
 	int n,k;
 	double maxentropychange,t,test;
 
+	//Extra comment added to check git kraken
+
 	cout<<"\n***************** OUTLIER DETECTION USING GREEDY ALGORITHM *********************\n\n";
 	cout<<"\t1.Enter the size of the database (number of vectors) : ";
 	cin>>n;
